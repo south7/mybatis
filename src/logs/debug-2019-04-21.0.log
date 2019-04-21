@@ -1,0 +1,16 @@
+2019-04-21 17:22:18.230 [main] DEBUG org.mybatis.generator.logging.LogFactory  -Logging initialized using 'org.mybatis.generator.logging.slf4j.Slf4jLoggingLogFactory@383bfa16' adapter.
+2019-04-21 17:22:18.234 [main] DEBUG o.m.generator.internal.db.DatabaseIntrospector  -Retrieving column information for table "emp"
+2019-04-21 17:22:18.243 [main] DEBUG o.m.generator.internal.db.DatabaseIntrospector  -Found column "empno", data type 4, in table "dao..emp"
+2019-04-21 17:22:18.244 [main] DEBUG o.m.generator.internal.db.DatabaseIntrospector  -Found column "ename", data type 12, in table "dao..emp"
+2019-04-21 17:22:18.244 [main] DEBUG o.m.generator.internal.db.DatabaseIntrospector  -Found column "job", data type 12, in table "dao..emp"
+2019-04-21 17:22:18.244 [main] DEBUG o.m.generator.internal.db.DatabaseIntrospector  -Found column "hiredate", data type 93, in table "dao..emp"
+2019-04-21 17:22:18.244 [main] DEBUG o.m.generator.internal.db.DatabaseIntrospector  -Found column "sal", data type 8, in table "dao..emp"
+2019-04-21 17:22:18.244 [main] DEBUG o.m.generator.internal.db.DatabaseIntrospector  -Found column "comm", data type 8, in table "dao..emp"
+2019-04-21 17:27:39.721 [main] DEBUG org.mybatis.generator.logging.LogFactory  -Logging initialized using 'org.mybatis.generator.logging.slf4j.Slf4jLoggingLogFactory@383bfa16' adapter.
+2019-04-21 17:27:39.726 [main] DEBUG o.m.generator.internal.db.DatabaseIntrospector  -Retrieving column information for table "emp"
+2019-04-21 17:27:39.738 [main] DEBUG o.m.generator.internal.db.DatabaseIntrospector  -Found column "empno", data type 4, in table "dao..emp"
+2019-04-21 17:27:39.738 [main] DEBUG o.m.generator.internal.db.DatabaseIntrospector  -Found column "ename", data type 12, in table "dao..emp"
+2019-04-21 17:27:39.738 [main] DEBUG o.m.generator.internal.db.DatabaseIntrospector  -Found column "job", data type 12, in table "dao..emp"
+2019-04-21 17:27:39.739 [main] DEBUG o.m.generator.internal.db.DatabaseIntrospector  -Found column "hiredate", data type 93, in table "dao..emp"
+2019-04-21 17:27:39.739 [main] DEBUG o.m.generator.internal.db.DatabaseIntrospector  -Found column "sal", data type 8, in table "dao..emp"
+2019-04-21 17:27:39.739 [main] DEBUG o.m.generator.internal.db.DatabaseIntrospector  -Found column "comm", data type 8, in table "dao..emp"
