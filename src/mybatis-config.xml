@@ -17,6 +17,6 @@ PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
 	</environments>
 	<!--  加载vo类和数据库表映射文件-->
 	<mappers>
-		<mapper resource="cn/wangfan/mapper/PersonMapper.xml" />
+		<mapper resource="cn/wangfan/mapper/EmpMapper.xml" />
 	</mappers>
 </configuration>
