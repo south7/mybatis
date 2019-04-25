@@ -40,5 +40,11 @@
        SELECT empno,ename,job,hiredate,sal,comm FROM emp
     </select>
     
+    <select id="findAllSplit" resultType="Emp">
+		SELECT empno,ename,job,hiredate,sal,comm FROM emp WHERE ${arg2} LIKE #{arg3} limit ${arg0},${arg1}
+    </select>
     
+    <select id="findAllCount" resultType="Integer">
+        SELECT COUNT(empno) FROM emp WHERE ${arg0} LIKE #{arg1}   
+    </select>
 </mapper>
